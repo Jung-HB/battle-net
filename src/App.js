@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          블리자드 만들기 여기 만들어보세요ㅕ
         </p>
         <a
           className="App-link"
